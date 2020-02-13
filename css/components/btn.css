@@ -1,0 +1,19 @@
+.btn{
+	background-color: #63b7af;
+	border-radius: 6px;
+	padding: 25px 30px;
+	max-width: 125px;
+	margin: 0px auto;
+	font-size: 20px;
+	transition: 0.4s;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+.btn:hover{
+	background-color: #347474;
+}
